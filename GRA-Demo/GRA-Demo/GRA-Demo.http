@@ -1,0 +1,6 @@
+@GRA_Demo_HostAddress = http://localhost:5197
+
+GET {{GRA_Demo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
